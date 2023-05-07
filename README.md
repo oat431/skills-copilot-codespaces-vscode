@@ -1,6 +1,6 @@
 # 	Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code
 
-<!--step0-->
+<!--step0
 
 GitHub Copilot can help you code by offering autocomplete-style suggestions. You can learn how GitHub Copilot works, and what to consider while using GitHub Copilot. GitHub Copilot analyzes the context in the file you are editing, as well as related files, and offers suggestions from within your text editor. GitHub Copilot is powered by OpenAI Codex, a new AI system created by OpenAI.
 
@@ -33,9 +33,9 @@ GitHub Copilot can help you code by offering autocomplete-style suggestions. You
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Leverage Codespaces with VS Code for Copilot</h2></summary>
 
 _Welcome to "	Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! :wave:_
