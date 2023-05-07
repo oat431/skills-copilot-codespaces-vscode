@@ -1,0 +1,10 @@
+{
+    "name" : "Sahachan Try Skills",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
